@@ -1,1 +1,2 @@
-# Pertemuan-Duabelas-4-11-2025
+# TabbedPane
+TabbedPane (JTabbedPane) adalah komponen antarmuka pengguna grafis (GUI) dari pustaka Swing yang memungkinkan untuk membuat UI dengan beberapa panel yang tersusun dalam tab-tab. Komponen ini berfungsi sebagai wadah untuk menampung komponen lain dan hanya menampilkan konten dari satu tab pada satu waktu yang dapat diakses dengan mengklik tab tersebut. Seperti contoh pada praktikum ini akan ada 2 tabbed pane, Kategori dan Buku. Tab "Kategori" akan berisi kategori/genre dari buku, sedangkan tab "Buku" akan berisi informasi buku, yaitu judul, penulis, penerbit, tahun terbit dll.
